@@ -67,7 +67,8 @@ R1 =10 R = 33 k. Rf = 29R1=1MΩ
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-<img width="1600" height="1136" alt="image" src="https://github.com/user-attachments/assets/5cac6d26-403f-4bda-af37-222c59b134a3" />
+<img width="1600" height="1119" alt="image" src="https://github.com/user-attachments/assets/3d268c04-23b4-470b-8ad2-ca4b3aa18963" />
+
 
 
 ---
